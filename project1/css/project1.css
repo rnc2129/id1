@@ -1,9 +1,25 @@
-body{
-    width:100%;
+head    
+
+title   {color:crimson;
 }
-img {
-    width:100%;
+
+body    {width:90%; padding-bottom: 10%; background-color:azure
 }
-p {
-    width:90%;
+
+img     {width:auto;
 }
+
+h1      {width: 100%; color: firebrick; 
+}
+
+h3      {width: 100%; color:crimson; 
+}
+
+p       {width: 90%; color:black; font-family: sans-serif; padding-bottom: 2%
+}
+
+h4      {text-align: justify; width:900%; color:darkslateblue; 
+}
+
+h2      {width: 100%; color:blue; text-align: center;  
+    
