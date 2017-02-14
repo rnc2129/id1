@@ -1,25 +1,90 @@
-head    
-
-title   {color:crimson;
+@font-face{
+    font-family:bones;
+        src:url(../fonts/bone1.ttf);
+    font-family:bone2;
+        src:url(../fonts/bont2.otf);
+}
+body {
+    background-color:azure;
+    width:100%;
+    padding-bottom: 10%;
 }
 
-body    {width:90%; padding-bottom: 10%; background-color:azure
+img {
+    width:100%; 
+}
+   
+h1 {
+    width: 100%;
+    --------------------------------LEADING;
+    font-family: bone1;
+    font-size: 5em;
+    color: firebrick;
+    text-align: center;
 }
 
-img     {width:auto;
+h3 {
+    width:100%;
+    padding-bottom: 3%;
+    font-family: inherit;
+    font-size: 2em;
+    color: crimson;
+    text-align: center;
+}
+p {
+    width: 85%;
+    margin-left: 7%;
+    --------------------------------LEADING;
+    font-family: monospace;
+    font-size: 1.75em;
+    color: black;
+    text-align: justify   
 }
 
-h1      {width: 100%; color: firebrick; 
+h4 {
+    width: 100%;
+     --------------------------------LEADING;
+    font-family:inherit;
+    font-size: 1.5em;
+    color: darkslateblue;
+    text-align: center
+}
+h5 {
+    width: 100%;
+    font-family:inherit;
+    font-size:.9em;
+    color: darkslateblue;
+    text-align:center;
+    margin-left: 1%;
+}
+   img#spacer {
+    width: 5%;
+    padding: 4%;
+    margin-left: 45%;     
 }
 
-h3      {width: 100%; color:crimson; 
+img#Octet {
+    width: 65%;
+    margin-top: 3%;
+    border-color: black;
+    border-width: medium;
+    border-style: solid;
+    margin-left: 16%;
 }
 
-p       {width: 90%; color:black; font-family: sans-serif; padding-bottom: 2%
+h2 {
+    width: 100%;
+    padding-top: 3%;
+    font-family:inherit;
+    font-size:2em;
+    color: darkslateblue;
+    text-decoration-line: underline;
+    text-align: center
 }
-
-h4      {text-align: justify; width:900%; color:darkslateblue; 
-}
-
-h2      {width: 100%; color:blue; text-align: center;  
-    
+p2 {
+    width: 100%;
+    font-family: fantasy;
+    font-size:1em;
+    color: darkslateblue;
+    text-align: center 
+}    
