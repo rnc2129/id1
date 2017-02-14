@@ -11,28 +11,29 @@
         src:url(../fonts/gsl.ttf);
 }
 body {
-    background-color:azure;
+    background-color:antiquewhite;
     width:100%;
     padding-bottom: 10%;
-}
 
+}
 img {
-    width:100%; 
+    width:100%;
+    
 }
    
 h1 {
     width: 100%;
-    --------------------------------LEADING;
     font-family: bones;
     font-size: 7em;
     color: firebrick;
+    text-shadow:4px 7px 15px grey;
     text-align: center;
 }
 
 h3 {
     width:100%;
     padding-bottom: 3%;
-    font-family: monospace;
+    font-family: body1;
     font-size: 3em;
     color: crimson;
     text-align: center;
@@ -41,7 +42,7 @@ p {
     width: 85%;
     margin-left: 7%;
     text-indent: 2em;
-    font-family: sans-serif;
+    font-family: body1;
     font-size: 1.75em;
     color: black;
     line-height: 1.5;
@@ -54,6 +55,7 @@ h4 {
     font-size: 3.75em;
     line-height: 0;
     color:crimson;
+    text-shadow:3px 4px 10px grey;
     text-align: center
 }
 h5 {
@@ -76,22 +78,23 @@ img#Octet {
     border-color: black;
     border-width: medium;
     border-style: solid;
+    box-shadow:10px 15px 50px grey;
     margin-left: 16%;
 }
 
 h2 {
     width: 100%;
     padding-top: 3%;
-    font-family:monospace;
+    font-family:body1;
     font-size:2em;
     color: darkslateblue;
-   text-decoration: underline;
+    text-decoration: underline;
     text-align: center
 }
 p#p2 {
     width: 100%;
     margin-left: 1%;
-    font-family: monospace;
+    font-family: body1;
     font-size:1.5em;
     line-height: .25;
     color: darkslateblue;
@@ -100,7 +103,7 @@ p#p2 {
 
 p#p3 {
     width: 100%;
-    font-family: monospace;
+    font-family: body1;
     font-size:1.5em;
     line-height: .25;
     color: darkslateblue;
