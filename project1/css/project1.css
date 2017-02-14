@@ -1,8 +1,8 @@
 @font-face{
     font-family:bones;
-        src:url(../fonts/bone1.ttf);
+        src:url(../fonts/bones1.ttf);
     font-family:bone2;
-        src:url(../fonts/bont2.otf);
+        src:url(../fonts/bones2.otf);
 }
 body {
     background-color:azure;
@@ -17,8 +17,8 @@ img {
 h1 {
     width: 100%;
     --------------------------------LEADING;
-    font-family: bone1;
-    font-size: 5em;
+    font-family: bones;
+    font-size: 7em;
     color: firebrick;
     text-align: center;
 }
@@ -26,26 +26,27 @@ h1 {
 h3 {
     width:100%;
     padding-bottom: 3%;
-    font-family: inherit;
-    font-size: 2em;
+    font-family: monospace;
+    font-size: 3em;
     color: crimson;
     text-align: center;
 }
 p {
     width: 85%;
     margin-left: 7%;
-    --------------------------------LEADING;
+    text-indent: 2em;
     font-family: monospace;
     font-size: 1.75em;
     color: black;
+    line-height: 1.5;
     text-align: justify   
 }
 
 h4 {
     width: 100%;
-     --------------------------------LEADING;
-    font-family:inherit;
-    font-size: 1.5em;
+    font-family:bone2;
+    font-size: 3.75em;
+    line-height: 0;
     color: darkslateblue;
     text-align: center
 }
@@ -75,16 +76,26 @@ img#Octet {
 h2 {
     width: 100%;
     padding-top: 3%;
-    font-family:inherit;
+    font-family:monospace;
     font-size:2em;
     color: darkslateblue;
-    text-decoration-line: underline;
+   text-decoration: underline;
     text-align: center
 }
-p2 {
+#p2 {
     width: 100%;
-    font-family: fantasy;
-    font-size:1em;
+    font-family: monospace;
+    font-size:1.5em;
+    line-height: .25;
     color: darkslateblue;
-    text-align: center 
+    text-align: left
+}    
+#p3 {
+    width: 100%;
+    text-indent: 2;
+    font-family: monospace;
+    font-size:1.5em;
+    line-height: .25;
+    color: darkslateblue;
+    text-align: left
 }    
