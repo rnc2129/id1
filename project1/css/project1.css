@@ -93,7 +93,6 @@ p {
 }
 p#p2 {
     width: 100%;
-    margin-left: 1%;
     font-family: body1;
     font-size:1.5em;
     line-height: .25;
@@ -103,6 +102,7 @@ p#p2 {
 
 p#p3 {
     width: 100%;
+    margin-left: 10%;
     font-family: body1;
     font-size:1.5em;
     line-height: .25;
