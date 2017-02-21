@@ -15,8 +15,10 @@ body {
     padding-bottom: 10%;
     background-color:antiquewhite;
 }
-h1 {
+h1, h2, h3, h4, h5 {
     width: 100%;
+}
+h1 {
     font-family: bones;
     font-size: 7em;
     color: firebrick;
@@ -24,7 +26,6 @@ h1 {
     text-align: center;
 }
 h2 {
-    width: 100%;
     padding-top: 3%;
     font-family:body1;
     font-size:2em;
@@ -33,7 +34,6 @@ h2 {
     text-align: center
 }
 h3 {
-    width:100%;
     padding-bottom: 3%;
     font-family: body1;
     font-size: 3em;
@@ -41,7 +41,6 @@ h3 {
     text-align: center;
 }
 h4 {
-    width: 100%;
     font-family:bone2;
     font-size: 3.75em;
     color:crimson;
@@ -50,7 +49,6 @@ h4 {
     line-height: 0;
 }
 h5 {
-    width: 100%;
     font-family:sans-serif;
     font-size:.9em;
     color: darkslateblue;
