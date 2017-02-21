@@ -1,12 +1,9 @@
-h1 {
-    background-color:dimgray;
+body {
+    background-color: whitesmoke;
     width:100%;
-    padding-top: 2%;
-    padding-bottom: 2%;
-    padding-left: 2%;
+    padding-bottom: 10%;
     font-family: inherit;
-    font-size: 24pt;
-    color:white
+    font-size: 16pt; 
 }
 h2 {
     background-color: whitesmoke;
@@ -20,13 +17,6 @@ h3 {
     width:100%;
     font-family: inherit;
     font-size: 19pt;
-}
-body {
-    background-color: whitesmoke;
-    width:100%;
-    padding-bottom: 10%;
-    font-family: inherit;
-    font-size: 16pt; 
 }
 p {
     background-color: whitesmoke;
@@ -54,38 +44,11 @@ img {
     float:right;
     margin: 0 3% 10px 10px   
 }
-img#bs { 
-    width: 150px;
-}
-#bs:hover{
+#bs:hover,#wf:hover,#mb:hover,#cd:hover,#fp:hover  {
     width:25%;
     height: auto;
 }
-img#wf { 
+img#bs,img#wf, img#mb, img#cd, img#fp { 
     width: 150px;
 }
-#wf:hover{
-    width:25%;
-    height: auto;
-}
-img#mb {
-    width: 150px;
-}
-#mb:hover{
-    width:25%;
-    height: auto;
-}
-img#cd {
-    width: 150px;
-}
-#cd:hover{
-    width:25%;
-    height: auto;
-}
-img#fp {
-    width: 150px;
-}
-#fp:hover{
-    width:25%;
-    height: auto;
-}
+
