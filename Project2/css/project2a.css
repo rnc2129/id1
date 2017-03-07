@@ -1,0 +1,28 @@
+/* MOBILE LAYOUT */
+
+@media only screen and (max-width:500px) {
+    body {
+        width:100%;
+        padding-left: 5%;
+        padding-right: 5%;
+    }
+    
+    h1,h2,h3,h4 {
+        width:75%;
+    }
+    h5 {
+        width: 50%;
+    }
+    p{
+      width: 100%;
+        Padding-left: 2%;
+        Padding-Right:2%;
+        font-family: ubuntu;
+        font-size: 12pt;
+    }
+    #head {
+        
+    }
+    #exer {
+        
+    }
