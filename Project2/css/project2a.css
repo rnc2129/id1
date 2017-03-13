@@ -5,7 +5,7 @@
 }
 @media only screen and (max-width:500px) {
     body {
-        width:100%;
+        width:500px;
         padding-left: 5%;
         padding-right: 5%;
         background-image: url(image/background.png);
@@ -23,12 +23,12 @@
         text-shadow:0px 0px 20px purple;
     }
     h5 {
-        width:90%;
+        width:75%;
         font-size: 15pt;
         font-family: 'Ubuntu';
         font-size: 15pt;
-    }
-
+        position:relative;
+  }
     ol {
         width:90%;
         font-family: 'Ubuntu';
@@ -40,7 +40,7 @@
         font-size: 12pt;
     }
     p{
-        width: 85%;
+        width: 500px;
         Padding-left: 2%;
         Padding-Right:2%;
         font-family: ubuntu;
@@ -49,32 +49,33 @@
     #about {
         width:95%;
         padding-bottom: 15px;
-
     }
-    p#question {
-        width:95%;
+    p#question {        
         font-family: 'Ubuntu'; 
         font-weight: 700;
         font-size: 14pt;
     }
+    p#answer { 
+        width:25%;
+        font-family: 'Ubuntu'; 
+        font-size: 14pt;
+    }
     img#rnc {
-        display: block;
-        margin: auto;
-        width: 70%;
+       margin: auto;
+        width: 25%;
     }
     img#dcf {
-        width:100%;
+        width:50%;
         color: white;
     }
     #link {
-        text-align: center;
+
         width: 50%;
         font-family: 'Ubuntu';
         font-size: 6pt;
         position:relative;
-        top: -38px;
-        left: 205px;
-            }
+        left: 15px;
+               }
 }
     /* DESKTOP LAYOUT*/                                       
 @font-face{
