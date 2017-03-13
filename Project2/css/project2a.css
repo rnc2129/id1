@@ -160,6 +160,7 @@ footer1 {
 img#DCM {
     width:100%;
 }
+   
 img#rnc {
     width: 475px;
     height: 475px;
@@ -167,6 +168,13 @@ img#rnc {
     left:1400px;
     top: -460px;
 }
+    img#rnc:hover {
+      width: 50%;
+      height:auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+    }
 img#dcf {
     width:1885px;
     position: relative;
