@@ -5,42 +5,43 @@
 }
 @media only screen and (max-width:500px) {
     body {
-        width:100%;
+        width:95%;
         padding-left: 5%;
         padding-right: 5%;
         background-image: url(image/background.png);
     }
     img {
-        width:25%;
+        width:95%;
         padding-left: 2%;
         padding-right: 2%;
     }
     h1,h2,h3,h4 {
-        width:25%;
+        width:95%;
         font-family: cave;
         font-size: 8pt;
         color: black;
         text-shadow:0px 0px 20px purple;
     }
     h5 {
-        width:25%;
+        width:95%;
         font-size: 15pt;
         font-family: 'Ubuntu';
         font-size: 15pt;
     }
 
     ol {
-        width:25%;
+        width:95%;
         font-family: 'Ubuntu';
         font-size: 12pt;
+        font-family:
     }
     ul {
-        width:25%;
+        width:95%;
         font-family: 'Ubuntu';
         font-size: 12pt;
     }
     p{
-        width: 25%;
+        width: 95%;
         Padding-left: 2%;
         Padding-Right:2%;
         font-family: ubuntu;
@@ -58,15 +59,15 @@
         font-size: 14pt;
     }
     img#rnc {
-       width: 25%;
+       width: 80%;
     }
     img#dcf {
-        width:25%;
+        width:95%;
         color: white;
     }
     #link {
         text-align: center;
-        width: 25%;
+        width: 70%;
         font-family: 'Ubuntu';
         font-size: 6pt;
         position:relative;
@@ -81,7 +82,6 @@
 @media only screen and (min-width:501px) {
     body {
         height: 1300px;
-        margin:20;
         padding-bottom: 15px;
     }
     h1,h2,h3,h4 {
@@ -105,7 +105,7 @@
         font-size: 13pt;
     }
     ul {
-        width:1375;
+        width:1375px;
         font-family: 'Ubuntu', sans-serif;
         font-size: 12pt;
     }
