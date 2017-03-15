@@ -1,0 +1,76 @@
+/* DESKTOP LAYOUT*/                                       
+@font-face{
+    font-family:serif;
+        src:url(../fonts/athelas.ttf);
+}
+@font-face{
+    font-family:sans;
+        src:url(../fonts/gsl.ttf);
+}
+@font-face{
+    font-family:cave;
+        src:url(../fonts/cave.ttf);
+}
+@font-face{
+    font-family:hand;
+        src:url(../fonts/apo.ttf);
+}
+body {
+    margin:20;
+}
+h1,h2,h3,h4 {
+    width: 100%;
+    font-family: cave;
+    font-size: 8pt;
+    color: black;
+    text-shadow:0px 0px 20px purple; 
+}
+ol {
+    width:100%;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 13pt;
+}
+ul {
+    width:100%;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 12pt;
+}
+p {
+    width: 100%;
+    font-family:sans;
+    font-size: 14pt;
+}
+p#question {
+    width:100;
+    padding:0%;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 14pt;
+}
+p#answer {
+    width:100;
+    padding:0%;
+    font-family:sans;
+    font-style: italic;
+    font-size: 14pt;
+}
+img {
+    width:100%;
+    padding:0;
+    border:0;
+}
+img#rnc {
+    width:50%;
+    padding:0;
+    border:0;
+}
+/* MOBILE LAYOUT */
+
+@media only screen and (max-width:500px) {
+    body {
+        width:80%;
+        padding: 2% 2%;
+    }
+    img {
+        width:80%;
+    }
+}
