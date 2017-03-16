@@ -1,0 +1,93 @@
+/* MOBILE LAYOUT */
+@font-face{
+    font-family:cave;
+    src:url(../fonts/cave.ttf);
+}
+@media only screen and (max-width:500px) {
+    body {
+        width:100%; 
+        background-image: url(image/background.png);
+    }
+    h1,h2,h3,h4 {
+        display:block;
+        width: 95%;
+        margin-left: auto;
+        margin-right: auto;
+        font-family: cave;
+        font-size: 8pt;
+        color: black;
+        text-shadow:0px 0px 20px purple;
+        text-align: center;
+    }
+
+    ol {
+        display:block;
+        width: 80%;
+        margin-left: auto;
+        margin-right: auto;
+        font-family: 'Ubuntu';
+        font-size: 12pt;
+        font-family:
+    }
+    ul {
+
+        display:block;
+        width: 90%;
+        margin-left: auto;
+        margin-right: auto;
+        font-family: 'Ubuntu';
+        font-size: 12pt;
+    }
+    p{
+        display:block;
+        width: 90%;
+        margin-left: auto;
+        margin-right: auto;Padding-left: 2%;
+        Padding-Right:2%;
+        font-family: ubuntu;
+        font-size: 12pt;
+        text-align: center;
+    }
+    #about {
+        width:95%;
+        padding-bottom: 15px;
+
+    }
+    p#question {
+        display:block;
+        width: 80%;
+        margin-left: auto;
+        margin-right: auto;
+        font-family: 'Ubuntu'; 
+        font-weight: 700;
+        font-size: 14pt;
+        text-align:center;
+    }
+    img#dcm {
+        display:block;
+        width: 100%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    img#rnc {
+        display:block;
+        width: 80%;
+        margin-left: auto;
+        margin-right: auto;
+        padding-bottom: 2%;
+    }
+    img#dcf {
+        width:95%;
+    }
+    #link {
+        display:block;
+        width: 70%;
+        margin-left: auto;
+        margin-right: auto;
+        font-family: 'Ubuntu';
+        font-size: 8pt;
+        text-align: center
+
+    }
+}
