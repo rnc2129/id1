@@ -33,13 +33,6 @@ img#con {
     top:600px;  
 }
 
-img#rich {
-    width: 25%;
-    float: right;
-    position:absolute;
-    top:180px
-}
-
 section {
     width: 75%;
     position:absolute;
