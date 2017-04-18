@@ -32,18 +32,32 @@ img#con {
     left:197px;
     top:600px;  
 }
+header {
+    width:8-%;
+    position: relative;
+    top: -50px;
+}
+
+img#sign {
+    width:70%;
+    position: relative;
+    left: 425px
+}
 
 section {
     width: 75%;
     position:relative;
-    left: 400px;
-    top: 100px;
+    left: 350px;
+
 }
-img#rich {
-    width: 25%;
-    float: left;
-    position:absolute;
-    top:180px;
+
+img#time {
+    width: 75%;
+    position:relative;
+    border-color: black;
+    border-width: medium;
+    border-style: solid;
+    box-shadow:10px 15px 50px black;
     
 }
 
@@ -56,7 +70,6 @@ img#rich {
 
 footer {
     width: 75%;
-    position: relative;
-    left: 800px;
-    top: 690px;
+    position:relative;
+    left: 250px;
 }

@@ -1,6 +1,4 @@
 /* IMAC SCREENS 2560 x 1440 */
-
-
 img#home {
     width:70px;
     position:relative;
@@ -34,6 +32,18 @@ img#con {
     left:197px;
     top:600px;  
 }
+header {
+    width:8-%;
+    position: relative;
+    top: -50px;
+}
+
+img#sign {
+    width:70%;
+    position: relative;
+    left: 425px
+}
+
 img#me {
     width: 350px;
     float:left;
@@ -47,7 +57,7 @@ section {
     width: 75%;
     position:relative;
     left: 400px;
-    top: 100px;
+    top:50px;
     font-family: 'EB Garamond', serif;
     font-size: 19px}
 }
@@ -56,10 +66,9 @@ section {
 
 #lower {
     width: 45%;
-    padding-bottom: 440px;
     position:relative;
     left: 800px;
-    top: 210px;
+    top: 170px;
     font-family: 'La Belle Aurore', cursive;
     font-size: 28px;
     line-height: 36px
@@ -68,6 +77,7 @@ section {
 footer {
     width: 75%;
     position:relative;
-    left: 250px
+    left: 250px;
+    top: 500px
      
 }
