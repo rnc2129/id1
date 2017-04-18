@@ -1,0 +1,73 @@
+/* IMAC SCREENS 2560 x 1440 */
+
+
+img#home {
+    width:70px;
+    position:relative;
+    left:190px;
+    top:203px;  
+}
+
+img#bio {
+    width:70px;
+    position:absolute;
+    left:197px;
+    top:307px;  
+}
+
+img#gra {
+    width:70px;
+    position:absolute;
+    left:197px;
+    top:405px;  
+}
+img#std {
+    width:70px;
+    position:absolute;
+    left:197px;
+    top:503px;  
+}
+
+img#con {
+    width:70px;
+    position:absolute;
+    left:197px;
+    top:600px;  
+}
+img#me {
+    width: 350px;
+    float:left;
+    position:absolute;
+    border-color: black;
+    border-width: medium;
+    border-style: solid;
+    box-shadow:10px 15px 50px black;
+    }
+section {
+    width: 75%;
+    position:relative;
+    left: 400px;
+    top: 100px;
+    font-family: 'EB Garamond', serif;
+    font-size: 19px}
+}
+#para {  
+}
+
+#lower {
+    width: 45%;
+    padding-bottom: 440px;
+    position:relative;
+    left: 800px;
+    top: 210px;
+    font-family: 'La Belle Aurore', cursive;
+    font-size: 28px;
+    line-height: 36px
+   }
+
+footer {
+    width: 75%;
+    position:relative;
+    left: 250px
+     
+}
