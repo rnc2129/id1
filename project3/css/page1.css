@@ -33,23 +33,18 @@ img#con {
     top:600px;  
 }
 
-header {
-    width:8-%;
-    position: relative;
-    top: -50px;
-}
-
 img#sign {
     width:70%;
+    padding-bottom: 25px;
     position: relative;
-    left: 425px
+    top: -40px;
+    left: 450px
 }
 
 section {
     width: 80%;
     position:relative;
     left: 350px;
-
 }
 
 img#time {
