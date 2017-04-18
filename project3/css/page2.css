@@ -30,55 +30,134 @@ img#con {
     width:70px;
     position:absolute;
     left:197px;
-    top:600px;  
+    top:600px;
 }
-header {
-    width:8-%;
-    position: relative;
-    top: -50px;
-}
-
 img#sign {
     width:70%;
+    padding-bottom: 25px;
     position: relative;
-    left: 425px
+    left: 455px
 }
 
-section {
-    width: 75%;
-    position: relative;
-    padding-left: 455px;
-}
 img#dis {
-    height:240px;
+    height:275px;
     position: relative;
+    left: 455px;
     border-color: black;
     border-width: medium;
     border-style: solid;
     box-shadow:10px 15px 50px black;
 }
 img#yeti {
-    height:240px;
+    height:275px;
     position: relative;
-    left: 200px;
+    left: 620px;
     border-color: black;
     border-width: medium;
     border-style: solid;
     box-shadow:10px 15px 50px black;
 }
 img#odu {
-    height:240px;
+    height:275px;
     position: relative;
-    left: 450px;
+    left: 800px;
     border-color: black;
     border-width: medium;
     border-style: solid;
     box-shadow:10px 15px 50px black;
 }
 
+#text1 {
+    width:75%;
+    position:relative;
+    top:-10px;
+    left: 455px;
+    }
+h4#ad1 {
+    width: 207px;
+    font-family: 'EB Garamond', serif;
+    font-size: 18px;
+    text-align: center;
+}
+h5#ad2 {
+    width: 207px;
+    position: absolute;
+    top:2px;
+    font-family: 'EB Garamond', serif;
+    font-size: 14px;
+    text-align: center;
+}
+h4#ad3 {
+    width: 207px;
+    position: relative;
+    top: -47px;
+    left: 470px;
+    font-family: 'EB Garamond', serif;
+    font-size: 18px;
+    text-align: center;
+}
+h5#ad4 {
+    width: 207px;
+    position: relative;
+    top: -68px;
+    left: 470px;
+    font-family: 'EB Garamond', serif;
+    font-size: 14px;
+    text-align: center;
+}
+h4#ad5 {
+    width: 207px;
+    position: absolute;
+    top: -25px;
+    left: 1035px;
+    font-family: 'EB Garamond', serif;
+    font-size: 18px;
+    text-align: center;
+}
+h5#ad6 {
+    width: 207px;
+    position: absolute;
+    top: 3px;
+    left: 1025px;
+    font-family: 'EB Garamond', serif;
+    font-size: 14px;
+    text-align: center;
+}
+#lower {
+    width: 75%;
+    padding-left: 455px;
+    position: relative;
+    top:-55px;
+}
+img#pg1{
+    height:300px;
+    position: relative;
+    border-color: black;
+    border-width: medium;
+    border-style: solid;
+    box-shadow:10px 15px 50px black;
+}
+img#pg2{
+    height:310px;
+    position: relative;
+    left:180px;
+    border-color: black;
+    border-width: medium;
+    border-style: solid;
+    box-shadow:10px 15px 50px black;
+}
+img#box{
+    height:310px;
+    position: relative;
+    left:305px;
+    border-color: black;
+    border-width: medium;
+    border-style: solid;
+    box-shadow:10px 15px 50px black;
+}
 footer {
     width: 75%;
     position:relative;
     left: 250px;
-    top: 900px;
+    top: 50px;
 }
