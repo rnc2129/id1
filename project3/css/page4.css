@@ -1,5 +1,4 @@
-/* IMAC SCREENS 2560 x 1440 */
-img#home {
+ img#home {
     width:70px;
     position:relative;
     left:190px;
@@ -40,34 +39,33 @@ img#sign {
     left: 455px
 }
 
-img#mac {
-    height:275px;
+img#fb {
+    height:175px;
+    padding-left: 120px;
     position: relative;
-    left: 455px;
-    border-color: black;
-    border-width: medium;
-    border-style: solid;
-    box-shadow:10px 15px 50px black;
+    left: 0px;
+    
 }
-img#bowl {
-    height:275px;
+img#link {
+    height:175px;
+    padding-left: 120px;
     position: relative;
-    left: 720px;
-    border-color: black;
-    border-width: medium;
-    border-style: solid;
-    box-shadow:10px 15px 50px black;
+    left: 0px;
+    
 }
-img#fru {
-    height:275px;
+img#pin {
+    height:175px;
+    padding-left: 120px;
     position: relative;
-    left: 960px;
-    border-color: black;
-    border-width: medium;
-    border-style: solid;
-    box-shadow:10px 15px 50px black;
-}
+    left: 0px;
+    }
 
+img#you {
+    height:175px;
+    padding-left: 120px;
+    position: relative;
+    left: 0px;
+    }
 #text1 {
     width:75%;
     position:relative;
@@ -235,5 +233,5 @@ footer {
     width: 75%;
     position:relative;
     left: 250px;
-    top: 45px;
+    top: 145px;
 }
