@@ -1,0 +1,242 @@
+/* IMAC SCREENS 2560 x 1440 */
+body {
+    width: 100%;
+}
+img#home {
+    width:70px;
+    position:relative;
+    left:190px;
+    top:203px;  
+}
+
+img#bio {
+    width:70px;
+    position:absolute;
+    left:197px;
+    top:307px;  
+}
+
+img#gra {
+    width:70px;
+    position:absolute;
+    left:197px;
+    top:405px;  
+}
+img#std {
+    width:70px;
+    position:absolute;
+    left:197px;
+    top:503px;  
+}
+
+img#con {
+    width:70px;
+    position:absolute;
+    left:197px;
+    top:600px;
+}
+img#sign {
+    width:70%;
+    padding-bottom: 25px;
+    position: relative;
+    top:-55px;
+    left: 455px
+}
+
+img#mac {
+    height:275px;
+    position: relative;
+    left: 455px;
+    border-color: black;
+    border-width: medium;
+    border-style: solid;
+    box-shadow:10px 15px 50px black;
+}
+img#bowl {
+    height:275px;
+    position: relative;
+    left: 720px;
+    border-color: black;
+    border-width: medium;
+    border-style: solid;
+    box-shadow:10px 15px 50px black;
+}
+img#fru {
+    height:275px;
+    position: relative;
+    left: 960px;
+    border-color: black;
+    border-width: medium;
+    border-style: solid;
+    box-shadow:10px 15px 50px black;
+}
+
+#text1 {
+    width:75%;
+    position:relative;
+    top:-10px;
+    left: 455px;
+}
+
+h4#ad1 {
+    width: 207px;
+    font-family: 'EB Garamond', serif;
+    font-size: 18px;
+    text-align: center;
+}
+
+h5#ad2 {
+    width: 207px;
+    position: absolute;
+    top:2px;
+    font-family: 'EB Garamond', serif;
+    font-size: 14px;
+    text-align: center;
+}
+
+h4#ad3 {
+    width: 207px;
+    position: relative;
+    top: -47px;
+    left: 480px;
+    font-family: 'EB Garamond', serif;
+    font-size: 18px;
+    text-align: center;
+}
+
+h5#ad4 {
+    width: 207px;
+    position: relative;
+    top: -68px;
+    left: 480px;
+    font-family: 'EB Garamond', serif;
+    font-size: 14px;
+    text-align: center;
+}
+
+h4#ad5 {
+    width: 207px;
+    position: absolute;
+    top: -25px;
+    left: 1015px;
+    font-family: 'EB Garamond', serif;
+    font-size: 18px;
+    text-align: center;
+}
+
+h5#ad6 {
+    width: 207px;
+    position: absolute;
+    top: 3px;
+    left: 1015px;
+    font-family: 'EB Garamond', serif;
+    font-size: 14px;
+    text-align: center;
+}
+
+#lower {
+    width: 75%;
+    padding-left: 455px;
+    position: relative;
+    top:-65px;
+}
+
+img#bla{
+    height:300px;
+    position: relative;
+    border-color: black;
+    border-width: medium;
+    border-style: solid;
+    box-shadow:10px 15px 50px black;
+}
+
+img#gla{
+    height:310px;
+    position: relative;
+    left:265px;
+    border-color: black;
+    border-width: medium;
+    border-style: solid;
+    box-shadow:10px 15px 50px black;
+}
+
+img#isb{
+    height:310px;
+    position: relative;
+    left:555px;
+    border-color: black;
+    border-width: medium;
+    border-style: solid;
+    box-shadow:10px 15px 50px black;
+}
+
+#text2 {
+    width:75%;
+    position:relative;
+    top:-80px;
+    left: 455px;
+}
+
+h4#ad1a {
+    width: 307px;
+    position: relative;
+    left:-35px;
+    font-family: 'EB Garamond', serif;
+    font-size: 18px;
+    text-align: center;
+}
+
+h5#ad2a {
+    width: 270px;
+    position: relative;
+    top:-22px;
+    left: -20px;
+    font-family: 'EB Garamond', serif;
+    font-size: 14px;
+    text-align: center;
+}
+
+h4#ad3a {
+    width: 207px;
+    position: relative;
+    top: -90px;
+    left:520px;
+    font-family: 'EB Garamond', serif;
+    font-size: 18px;
+    text-align: center;
+}
+
+h5#ad4a {
+    width: 270px;
+    position: relative;
+    top:-110px;
+    left: 488px;
+    font-family: 'EB Garamond', serif;
+    font-size: 14px;
+    text-align: center;
+}
+h4#ad5a {
+    width: 207px;
+    position: absolute;
+    top: -25px;
+    left:1065px;
+    font-family: 'EB Garamond', serif;
+    font-size: 18px;
+    text-align: center;
+}
+
+h5#ad6a {
+    width: 270px;
+    position: absolute;
+    top:-0px;
+    left: 1035px;
+    font-family: 'EB Garamond', serif;
+    font-size: 14px;
+    text-align: center;
+}
+footer {
+    width: 75%;
+    position:relative;
+    left: 250px;
+    top: 35px;
+}

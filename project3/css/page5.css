@@ -1,0 +1,70 @@
+ img#home {
+    width:70px;
+    position:relative;
+    left:190px;
+    top:203px;  
+}
+
+img#bio {
+    width:70px;
+    position:absolute;
+    left:197px;
+    top:307px;  
+}
+
+img#gra {
+    width:70px;
+    position:absolute;
+    left:197px;
+    top:405px;  
+}
+img#std {
+    width:70px;
+    position:absolute;
+    left:197px;
+    top:503px;  
+}
+
+img#con {
+    width:70px;
+    position:absolute;
+    left:197px;
+    top:600px;
+}
+img#sign {
+    width:70%;
+    padding-bottom: 25px;
+    position: relative;
+    top:-55px;
+    left: 455px
+}
+#upper {
+    width: 1000px;
+    position:relative;
+    top: -50px;
+    left:675px;
+    font-family: 'EB Garamond', serif;
+    font-size: 28px;
+    text-align: center;
+    line-height: 11px;
+}
+
+section#lower {
+    position: relative;
+    top: 10px;
+    left: 255px;
+}
+
+#lower {
+    width: 75%;
+    padding-left: 455px;
+    position: relative;
+    top:-65px;
+}
+
+footer {
+    width: 75%;
+    position:relative;
+    left: 250px;
+    top: 255px;
+}
