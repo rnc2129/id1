@@ -48,6 +48,12 @@ img#sign {
     text-align: center;
     line-height: 11px;
 }
+img#const {
+    border-color: black;
+    border-width: medium;
+    border-style: solid;
+    box-shadow:10px 15px 50px black;
+}
 
 section#lower {
     position: relative;
