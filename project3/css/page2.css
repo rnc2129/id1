@@ -39,7 +39,10 @@ img#sign {
     top:-55px;
     left: 455px
 }
-
+img#dis:hover,#yeti:hover,#odu:hover,#pg1:hover,#pg2:hover,#box:hover,  {
+    width:100px;
+    height: auto;
+}
 img#dis {
     height:275px;
     position: relative;
