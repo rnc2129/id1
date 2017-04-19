@@ -1,7 +1,4 @@
-/* Normal Screen Size */
-body {
-	background-image: url(../images/backgeround.jpg)
-}
+/* IMAC SCREENS 2560 x 1440 */
 img#home {
     width:70px;
     position:relative;
@@ -33,48 +30,35 @@ img#con {
     width:70px;
     position:absolute;
     left:197px;
-    top:600px;  
+    top:600px;
 }
-
 img#sign {
     width:70%;
-    padding-bottom: 25px;
+    padding-bottom: 75px;
     position: relative;
-    top: -40px;
-    left: 450px
+    top:-55px;
+    left: 455px
 }
-
-section {
-    width: 80%;
-    position:relative;
-    left: 350px;
-}
-
 img#time {
-    width: 65%;
-    position:relative;
-    left: 45px;
+    width: 1025px;
+    position: relative;
+    top:-100px;
+    left: 415px;
     border-color: black;
     border-width: medium;
     border-style: solid;
     box-shadow:10px 15px 50px black;
 }
+
 img#know {
-    height: 700px;
-    position: absolute;
-    top: -10px;
-    right: 90px;
+    height: 689px;
+    position:relative;
+    top: -85px;
+    left: 560px;
 }
-
-#lower {
-    width: 45%;
-    position:absolute;
-    left: 900px;
-    top: 560px;
-}
-
-footer {
+iooter {
     width: 75%;
     position:relative;
     left: 250px;
+    top: 45px;
 }
