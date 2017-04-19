@@ -1,4 +1,7 @@
-/* IMAC SCREENS 2560 x 1440 */
+/* Normal Screen Size */
+body {
+	background-image: url(../images/backgeround.jpg)
+}
 img#home {
     width:70px;
     position:relative;

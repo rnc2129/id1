@@ -5,6 +5,9 @@ img#home {
     left:190px;
     top:203px;  
 }
+img#home:hover {
+    
+}
 
 img#bio {
     width:70px;
